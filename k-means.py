@@ -1,5 +1,6 @@
 import numpy as np
 
+#ALGORITHM
 def k_means(X, k, max_iters=100): 
     try:
         # Step 1: Randomly initialize centroids
